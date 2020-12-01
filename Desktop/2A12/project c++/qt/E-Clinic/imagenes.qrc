@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/f">
+        <file>Trash.png</file>
+        <file>Tick.png</file>
+        <file>Add.png</file>
+        <file>ID.png</file>
+        <file>Mortified.mp3</file>
+        <file>Pencil.png</file>
+        <file>Printer.png</file>
+        <file>Search.png</file>
+        <file>piel.jpg</file>
+        <file>back.png</file>
+        <file>Books.png</file>
+        <file>Mail.png</file>
+        <file>Search-32.png</file>
+        <file>suitcase.png</file>
+    </qresource>
+</RCC>

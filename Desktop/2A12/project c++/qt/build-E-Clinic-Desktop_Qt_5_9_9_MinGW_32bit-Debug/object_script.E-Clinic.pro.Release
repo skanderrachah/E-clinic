@@ -1,0 +1,15 @@
+INPUT(
+./release\email.o
+./release\emailaddress.o
+./release\smtpclient.o
+./release\categories.o
+./release\connexion.o
+./release\facturesetcommandes.o
+./release\mail.o
+./release\main.o
+./release\mainwindow.o
+./release\qrc_imagenes.o
+./release\moc_smtpclient.o
+./release\moc_mail.o
+./release\moc_mainwindow.o
+);
